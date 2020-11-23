@@ -1,6 +1,7 @@
 # Filter Fruit Demo
 
-react demo that deletes a fruit from the fruit array and adds it to fruits eaten array when fruit is clicked
+react demo that deletes a fruit from the fruit array and adds it to fruits eaten array when fruit is clicked.
+Look at https://chandler-hanson.medium.com/filtering-fruits-in-javascript-and-react-127b3506a890 to understand more
 
 ## Getting Started with Create React App
 
